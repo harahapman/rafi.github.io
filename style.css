@@ -1,0 +1,55 @@
+.banner {
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("dpr.jpg") no-repeat center center;
+    background-size:cover;
+    padding-top: 20% ;
+    padding-bottom: 20%;
+    color:#fff
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #146c43;
+}
+
+.lingkaran i{
+    position: relative;
+    top: 30%;
+}
+
+.crop-img{
+    object-fit: cover;
+}
+
+.tim img{
+    width: 250px;
+    border: 10px solid #cccc;
+}
+
+.sosial{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+
+.client img{
+    height: auto;
+    max-width: 50px;
+}
+
+.kontak{
+    background: url("world.webp") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 50%;
+    padding-top: 50%;
+    height: auto;
+    color:#fff
+}
